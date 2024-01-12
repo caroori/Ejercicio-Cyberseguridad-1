@@ -1,0 +1,22 @@
+Ejercicio 1 - integridad de archivos
+# md5sum 
+copia.txt
+  original - 90965b0eb20e68b7d0b59accd2a3b4fd
+  control - 90965b0eb20e68b7d0b59accd2a3b4fd
+log.txt
+  original - f2b0428b975452afbc641e46a042231b 
+  control - 0b29406e348cd5f17c2fd7b47b1012f9
+pass.txt
+  original - 6d5e43a730490d75968279b6adbd79ec
+  control - 6d5e43a730490d75968279b6adbd79ec
+plan-A.txt
+  original - 129ea0c67567301df1e1088c9069b946
+  control - 129ea0c67567301df1e1088c9069b946
+plan-B.txt
+  original - 4e9878b1c28daf4305f17af5537f062a
+  control - 4e9878b1c28daf4305f17af5537f062a
+script.py
+  original - 66bb9ec43660194bc066bd8b4d35b151 
+  control - 66bb9ec43660194bc066bd8b4d35b15
+  
+Por lo tanto, podemos observar que el unico hash modificado es el log.txt
